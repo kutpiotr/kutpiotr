@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**kutpiotr/kutpiotr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Engineering & Data Analysis student interested in building practical IT solutions.
 
-Here are some ideas to get you started:
+## 🚀 About me
+- 💻 Interested in software development, data analysis, and IT systems
+- 📊 I enjoy working with data and solving real-world problems
+- 🌱 Currently developing my skills through personal projects
+- 🎯 Looking for internship opportunities in IT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech stack
+- Languages: Python, TypeScript, SQL
+- Backend: FastAPI
+- Frontend: Angular
+- Databases: SQLite, PostgreSQL
+- Tools: Git, REST API, Linux
+
+## 📂 Projects
+Most of my projects focus on:
+- building web applications
+- working with data and APIs
+- designing simple system architectures
+
+👉 Check out my repositories below
+
+## 📫 Contact
+- Email: kutpiotr1@gmail.com
