@@ -1,25 +1,29 @@
 # Hi there 👋
 
-I'm an Engineering & Data Analysis student interested in building practical IT solutions.
+I'm an Engineering & Data Analysis student focused on building practical IT solutions, especially in backend development and data processing.
 
 ## 🚀 About me
-- 💻 Interested in software development, data analysis, and IT systems
-- 📊 I enjoy working with data and solving real-world problems
-- 🌱 Currently developing my skills through personal projects
-- 🎯 Looking for internship opportunities in IT
+- 💻 Interested in backend development, databases, and data analysis
+- 🗄️ Strong focus on SQL and PL/SQL programming
+- 📊 I enjoy working with data, designing data models, and building reporting logic
+- 🌱 Developing my skills through hands-on projects (databases, APIs, ETL)
+- 🎯 Looking for internship opportunities as a Backend / PL/SQL Developer
 
 ## 🛠️ Tech stack
-- Languages: Python, TypeScript, SQL
-- Backend: FastAPI
+- Languages: Python, SQL, PL/SQL, TypeScript
+- Backend: FastAPI, REST API design
 - Frontend: Angular
-- Databases: SQLite, PostgreSQL
-- Tools: Git, REST API, Linux
+- Databases: Oracle, PostgreSQL, SQLite
+- Data: ETL (RAW → STAGING → CLEAN), data transformations, reporting
+- Tools: Git, Linux, SQL Developer
 
 ## 📂 Projects
-Most of my projects focus on:
-- building web applications
-- working with data and APIs
-- designing simple system architectures
+My projects focus on:
+- 🗄️ designing relational databases (tables, constraints, normalization)
+- ⚙️ implementing business logic in PL/SQL (procedures, functions, packages)
+- 📊 building reporting layers (views, aggregations, KPIs)
+- 🔄 creating ETL pipelines and data processing workflows
+- 🌐 developing full-stack applications (FastAPI + Angular)
 
 👉 Check out my repositories below
 
