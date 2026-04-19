@@ -25,27 +25,6 @@ A summer internship or trainee role in:
 
 **Tools & workflow** — Git · GitHub · Docker · Docker Compose · Linux CLI · SQL Developer · npm · venv
 
-## 📂 Featured projects
-
-### 🌐 Full-stack web applications
-- **[expense-tracker](https://github.com/kutpiotr/expense-tracker)** —
-  Flask REST API + Vue 3 + Vite personal finance app, with server-side
-  filtering, SQL aggregations, and a Chart.js dashboard.
-- **[helpdesk-ticket-system](https://github.com/kutpiotr/helpdesk-ticket-system)** —
-  FastAPI + Angular + TypeScript ticket management system with user/admin
-  roles and end-to-end typed API contracts.
-- **[system-zarzadzania-rezerwacjami](https://github.com/kutpiotr/system-zarzadzania-rezerwacjami)** —
-  FastAPI + React + PostgreSQL reservation management system.
-
-### 🗄️ Oracle PL/SQL
-- **[oracle-plsql-data-pipeline](https://github.com/kutpiotr/oracle-plsql-data-pipeline)** —
-  data processing pipeline with validation, error handling, and process logging.
-- **[oracle-plsql-helpdesk-system](https://github.com/kutpiotr/oracle-plsql-helpdesk-system)** —
-  helpdesk business logic implemented entirely in the database
-  (packages, validations, workflow, reporting views).
-- **[oracle-plsql-sales-reporting-system](https://github.com/kutpiotr/oracle-plsql-sales-reporting-system)** —
-  sales reporting with views, package logic, and query optimization.
-
 ## 📫 Contact
 
 - 📧 kutpiotr1@gmail.com
