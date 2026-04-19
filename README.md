@@ -1,31 +1,52 @@
-# Hi there 👋
+# Hi, I'm Piotr 👋
 
-I'm an Engineering & Data Analysis student focused on building practical IT solutions, especially in backend development and data processing.
+Engineering & Data Analysis student at Rzeszów University of Technology. I build full-stack web applications and design
+database-centric systems — comfortable moving between the frontend,
+the API layer, and SQL.
 
-## 🚀 About me
-- 💻 Interested in backend development, databases, and data analysis
-- 🗄️ Strong focus on SQL and PL/SQL programming
-- 📊 I enjoy working with data, designing data models, and building reporting logic
-- 🌱 Developing my skills through hands-on projects (databases, APIs, ETL)
-- 🎯 Looking for internship opportunities as a Backend / PL/SQL Developer
+## 🎯 What I'm looking for
+
+A summer internship or trainee role in:
+- **Full-stack web development** — Python + Vue / Angular
+- **Web & Cloud engineering** — JavaScript, Python, REST APIs, containers
+- **PL/SQL / database development** — Oracle, data pipelines, reporting
 
 ## 🛠️ Tech stack
-- Languages: Python, SQL, PL/SQL, TypeScript
-- Backend: FastAPI, REST API design
-- Frontend: Angular
-- Databases: Oracle, PostgreSQL, SQLite
-- Data: ETL (RAW → STAGING → CLEAN), data transformations, reporting
-- Tools: Git, Linux, SQL Developer
 
-## 📂 Projects
-My projects focus on:
-- 🗄️ designing relational databases (tables, constraints, normalization)
-- ⚙️ implementing business logic in PL/SQL (procedures, functions, packages)
-- 📊 building reporting layers (views, aggregations, KPIs)
-- 🔄 creating ETL pipelines and data processing workflows
-- 🌐 developing full-stack applications (FastAPI + Angular)
+**Languages** — Python · SQL · PL/SQL · JavaScript (ES6+) · TypeScript · HTML · CSS
 
-👉 Check out my repositories below
+**Backend** — Flask · FastAPI · SQLAlchemy · Pydantic · Alembic · REST API design
+
+**Frontend** — Vue 3 (Composition API, Vite, Vue Router) · Angular · Chart.js · component-based UI
+
+**Databases** — Oracle · PostgreSQL · SQLite · relational modeling · query optimization
+
+**Data & reporting** — PL/SQL packages, procedures, functions · ETL (RAW → STAGING → CLEAN) · views, aggregations, KPIs
+
+**Tools & workflow** — Git · GitHub · Docker · Docker Compose · Linux CLI · SQL Developer · npm · venv
+
+## 📂 Featured projects
+
+### 🌐 Full-stack web applications
+- **[expense-tracker](https://github.com/kutpiotr/expense-tracker)** —
+  Flask REST API + Vue 3 + Vite personal finance app, with server-side
+  filtering, SQL aggregations, and a Chart.js dashboard.
+- **[helpdesk-ticket-system](https://github.com/kutpiotr/helpdesk-ticket-system)** —
+  FastAPI + Angular + TypeScript ticket management system with user/admin
+  roles and end-to-end typed API contracts.
+- **[system-zarzadzania-rezerwacjami](https://github.com/kutpiotr/system-zarzadzania-rezerwacjami)** —
+  FastAPI + React + PostgreSQL reservation management system.
+
+### 🗄️ Oracle PL/SQL
+- **[oracle-plsql-data-pipeline](https://github.com/kutpiotr/oracle-plsql-data-pipeline)** —
+  data processing pipeline with validation, error handling, and process logging.
+- **[oracle-plsql-helpdesk-system](https://github.com/kutpiotr/oracle-plsql-helpdesk-system)** —
+  helpdesk business logic implemented entirely in the database
+  (packages, validations, workflow, reporting views).
+- **[oracle-plsql-sales-reporting-system](https://github.com/kutpiotr/oracle-plsql-sales-reporting-system)** —
+  sales reporting with views, package logic, and query optimization.
 
 ## 📫 Contact
-- Email: kutpiotr1@gmail.com
+
+- 📧 kutpiotr1@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/piotr-kut-9527ba351/)
